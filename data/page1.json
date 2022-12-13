@@ -1,802 +1,802 @@
 [
-    {
-        "href": "https://www.youtube.com/watch?v=RfvL_423a-I&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=1",
-        "title": "AWS re:Invent 2022 - Keynote with Dr. Werner Vogels"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=TL2HtX-FmiQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=2",
-        "title": "AWS re:Invent 2022 - Keynote with Swami Sivasubramanian"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=jT92JD6KIH8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=3",
-        "title": "AWS re:Invent 2022 - Keynote with Ruba Borno"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=R11YgBEZzqE&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=4",
-        "title": "AWS re:Invent 2022 - Keynote with Peter DeSantis"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Xus8C2s5K9A&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=5",
-        "title": "AWS re:Invent 2022 - Keynote with Adam Selipsky"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=7bY-YH70h8g&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=6",
-        "title": "AWS re:Invent 2022 - Accelerating innovation with serverless on AWS (SVS210-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=GamnNc6ZMew&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=7",
-        "title": "AWS re:Invent 2022 - Building modern apps: Architecting for observability & resilience (ARC217-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=a3d4yildLkI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=8",
-        "title": "AWS re:Invent 2022 - Building for a better future: Agility, speed, and resilience  (WPS208-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=dxLq27GVXpA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=9",
-        "title": "AWS re:Invent 2022 - Unlocking business value and operational benefits with IoT solutions (IOT211-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Bi8Rb96mloI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=10",
-        "title": "AWS re:Invent 2022 - Innovation and reinvention across the energy value chain (ENU204-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=84kvSuTGY7I&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=11",
-        "title": "AWS re:Invent 2022 - The power of responsibility in AI/ML (DEI201-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=ZaTcfNNEXcY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=12",
-        "title": "AWS re:Invent 2022 - Transform with AWS Cloud Operations: From vision to reality  (COP224-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=OB7IZolZk78&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=13",
-        "title": "AWS re:Invent 2022 - Kubernetes virtually anywhere, for everyone (CON208-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=nnzWyU8I6hA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=14",
-        "title": "AWS re:Invent 2022 - AWS for Industrial: Smart manufacturing & supply chain in the cloud (MFG208-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=exDzZ3KPaV4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=15",
-        "title": "AWS re:Invent 2022 - AWS storage innovations at exabyte scale (STG221-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=rxcHEIDil1s&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=16",
-        "title": "AWS re:Invent 2022 - Compute innovation to enable any application in the cloud (CMP223-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=yFmkE7tIslA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=17",
-        "title": "AWS re:Invent 2022 - What’s new in Amazon OpenSearch Service (ANT206)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=VVK6lbYdpc0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=18",
-        "title": "AWS re:Invent 2022 - Tackle complex migrations with VMware Cloud on AWS: Lessons from Aon (ENT224)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=SI2kk-4Jskk&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=19",
-        "title": "AWS re:Invent 2022 - How BMW, Intuit & Morningstar are transforming with AWS & Athena  (ANT326)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=SbL3a9YOW7s&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=20",
-        "title": "AWS re:Invent 2022 - Building next-gen applications with event-driven architectures (API311-R)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Nk6bOR61xe8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=21",
-        "title": "AWS re:Invent 2022 - Accelerating semiconductor design, simulation, and verification (CMP320)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=jrBznVvuvdM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=22",
-        "title": "AWS re:Invent 2022 - Amazon’s culture of innovation (INO102)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=sewKEuZZ1BA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=23",
-        "title": "AWS re:Invent 2022 - Optimize price and performance with Amazon EBS (STG204)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=l8AFfaCkp0E&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=24",
-        "title": "AWS re:Invent 2022 - Deep learning on AWS with NVIDIA: From training to deployment (PRT219)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=8zbfxcQ96eM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=25",
-        "title": "AWS re:Invent 2022 - Innovation, intersection, and scale (DEI302)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=2qautbhuJC8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=26",
-        "title": "AWS re:Invent 2022 - TCO analysis with AWS services and Migration Portfolio Assessment (PEX202)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=-WYBOuP1Y6E&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=27",
-        "title": "AWS re:Invent 2022 - Get started building your first serverless, event-driven application (SVS209)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=L4rq5DHhtgA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=28",
-        "title": "AWS re:Invent 2022 - Bring your favorite Dell enterprise capabilities to AWS (PRT253)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Iy1IpvcJH7I&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=29",
-        "title": "AWS re:Invent 2022 - Building AI-enriched applications with .NET on AWS (XNT303)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=zm30JNYmxlY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=30",
-        "title": "AWS re:Invent 2022 - How Discovery increased operational efficiency with AWS observability (COP201)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=RmwKBPCo7o4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=31",
-        "title": "AWS re:Invent 2022 - Unleash developer productivity with infrastructure from code (COM301)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=9Tse4B-fnbI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=32",
-        "title": "AWS re:Invent 2022 - Automotive reinvention (AUT101-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=_eoTZF-UOFA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=33",
-        "title": "AWS re:Invent 2022 - Accelerate business results with AWS purpose-built applications  (BIZ101-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=ce6t3FqB_Z4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=34",
-        "title": "AWS re:Invent 2022 - How Disney used AWS Glue as a data integration and ETL framework (ANT335)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=eSnPulp5os0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=35",
-        "title": "AWS re:Invent 2022 - What’s new with Amazon EMR (ANT302)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Oon01xMYhJ4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=36",
-        "title": "AWS Communications Presents Emerging Tech Trends in the Entertainment Industry"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=4FqHt5bmS2o&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=37",
-        "title": "AWS re:Invent 2022 - Deploy ML models for inference at high performance & low cost, ft AT&T (AIM302)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=-tJN9Oy3jfw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=38",
-        "title": "AWS re:Invent 2022 - Transform federal customer experiences with AWS Marketplace (MKT203)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=pDT_iVwRytw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=39",
-        "title": "AWS re:Invent 2022 - Deliver resilient, personalized experience at scale w/Amazon Connect (BIZ208)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=NkE9_okfPG8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=40",
-        "title": "AWS re:Invent 2022 - Setting up controls at scale in your AWS environment (COP318)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=RkBN-6dwAW8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=41",
-        "title": "AWS re:Invent 2022 - Bringing software engineering rigor to data (COM306)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=jbjd5yz-KTg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=42",
-        "title": "AWS re:Invent 2022 - Choosing the right accelerator for training and inference (CMP207)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=S7JwFFZ-7_Q&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=43",
-        "title": "AWS re:Invent 2022 - Building containers for AWS (CON325)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=MZBbhqt6bQs&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=44",
-        "title": "AWS re:Invent 2022 - A close look at AWS Fargate and AWS App Runner (CON406)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=V-DiplATdi0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=45",
-        "title": "AWS re:Invent 2022 - Modernize apps with purpose-built databases, featuring Liberty Mutual (DAT217)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=SC-YAPgJpms&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=46",
-        "title": "AWS re:Invent 2022 - Deploy modern and effective data models with Amazon DynamoDB (DAT320)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Zyhd2FmdtJs&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=47",
-        "title": "AWS re:Invent 2022 - How to save costs and optimize Microsoft workloads on AWS (ENT205)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=yXCjuAaXACo&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=48",
-        "title": "AWS re:Invent 2022 - How to migrate, modernize, and grow using the AWS MAP (ENT213)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Tf5zxMKjPnE&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=49",
-        "title": "AWS re:Invent 2022 - Site suitability analysis using Amazon Location Service (FWM202)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=fJIkTH3HMAk&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=50",
-        "title": "AWS re:Invent 2022 - How AWS and Riot Games built a governance reporting engine (GAM203)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=MNIKWFOvibA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=51",
-        "title": "AWS re:Invent 2022 - Pushing the boundary of the cloud to the edge (HYB203)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=AMBRfjt3pdg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=52",
-        "title": "AWS re:Invent 2022 - Building a sustainable practice for tomorrow (PEX201)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=I7Vt-6xUbxw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=53",
-        "title": "AWS re:Invent 2022 - Lessons learned from IT modernization and transformation (WPS205)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=YL9sRD3b7v8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=54",
-        "title": "AWS re:Invent 2022 - Learn how to migrate mission-critical systems to AWS (WPS206)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Q4NeICQ_IXk&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=55",
-        "title": "AWS re:Invent 2022 - How AWS is making quantum technologies a practical reality  (QTC201)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=uFrj0jHN848&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=56",
-        "title": "AWS re:Invent 2022 - Revitalize your security with the AWS Security Reference Architecture (SEC203)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=br7xIulqXks&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=57",
-        "title": "AWS re:Invent 2022 - Build securely on AWS: Insights from the C-suite (SEC332)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=TSeRyTZzS_M&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=58",
-        "title": "AWS re:Invent 2022 - Personalizing patient experience: A roundtable with PwC and Nuvance (PRT205)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=ElOe4YbwC1o&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=59",
-        "title": "AWS re:Invent 2022 - How to integrate analytics into DevOps processes using Git (PRT098)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=60Xf1GRIMdI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=60",
-        "title": "AWS re:Invent 2022 - How 5G Edge is being used to solve customer problems (PRT216)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=aHClvCQfuPs&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=61",
-        "title": "AWS re:Invent 2022 - Leaping ahead: The power of cloud network innovation (NET211-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=punKSuyhsbg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=62",
-        "title": "AWS re:Invent 2022 - Industry leaders share how to automate with PagerDuty and AWS (PRT217)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=XkAG8KiAFVo&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=63",
-        "title": "AWS re:Invent 2022 - HPE GreenLake and AWS: Hybrid cloud that accelerates your business (PRT096)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=jdQChVpE6Wo&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=64",
-        "title": "AWS re:Invent 2022 - The next frontier: Driving innovation with platform standardization (PRT221)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=DyB2iueJa6I&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=65",
-        "title": "AWS re:Invent 2022 - Why operationalizing data mesh is critical for operating in the cloud (PRT222)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=8mhktu-V8Cc&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=66",
-        "title": "AWS re:Invent 2022 - How SingleStore saves 56% on Amazon EC2 with no DevOps hours invested (PRT095)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=hm1fb5mPjfU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=67",
-        "title": "AWS re:Invent 2022 - What can you do with on-demand networking and the AWS Cloud? (PRT225)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=plLxBKDj3Zk&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=68",
-        "title": "AWS re:Invent 2022 - Developing and deploying secure AWS Lambda applications (PRT094)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=-9ul3j-fBpU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=69",
-        "title": "AWS re:Invent 2022 - Building real-time applications to utilize AWS Graviton (PRT246)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=voPfHDYRNBw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=70",
-        "title": "AWS re:Invent 2022 - Using AI to anticipate risk (PRT092)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=pOnXx0w-3WI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=71",
-        "title": "AWS re:Invent 2022 - Data integration at scale: Strategies to unlock SAP and mainframe (PRT248)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=zm9SJ1fbKRg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=72",
-        "title": "AWS re:Invent 2022 - All you need to know about architecting VMware Cloud on AWS deployment (PRT252)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=99r7cxKW8Rg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=73",
-        "title": "AWS re:Invent 2022 - Shift left the proper way (PRT082)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=DqrBUFtRC58&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=74",
-        "title": "AWS re:Invent 2022 - How AMD is taking the cloud to new heights, and what’s next (PRT256)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=SgYnEsz2wjc&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=75",
-        "title": "AWS re:Invent 2022 - Using AI to thwart cloud ransomware (PRT075)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=vvTEODqJUM8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=76",
-        "title": "AWS re:Invent 2022 - Building and operating at scale with feature management (PRT261)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=RF8VGhHK_GM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=77",
-        "title": "AWS re:Invent 2022 - Zero Trust CNAPP and cloud workload protection with Zscaler (PRT073)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=2PpBiCstUKM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=78",
-        "title": "AWS re:Invent 2022 - Observability in the real world: Improve systems w/iterative approach (PRT263)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=bbchHOFVUuY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=79",
-        "title": "AWS re:Invent 2022 - What to know before adopting Arm: Lessons learned at Datadog (PRT265)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=gpH5bNN9RTM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=80",
-        "title": "AWS re:Invent 2022 - Top four mistakes to avoid for ERP cloud migrations (PRT072)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=y1jmxhcR6TY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=81",
-        "title": "AWS re:Invent 2022 - Accelerate your AWS Partner Paths journey in half the time (PRT070)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Qz_rfvYZ2Mk&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=82",
-        "title": "AWS re:Invent 2022 - Modernize faster with serverless and end-to-end observability (PRT273)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=4q5XzyGk_IM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=83",
-        "title": "AWS re:Invent 2022 - Owning end user experience in an internet world (PRT067)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=SGEZYdO2QZA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=84",
-        "title": "AWS re:Invent 2022 - Innovate with AWS and secure with CrowdStrike (PRT275)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=0Pfj1CjsYhs&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=85",
-        "title": "AWS re:Invent 2022 - Geisinger’s full-scale migration to AWS via self-funding (PRT284)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=DfYuf-MVa9w&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=86",
-        "title": "AWS re:Invent 2022 - Modern data platforms: AWS and MariaDB SkySQL (PRT065)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=HUQSUGFWaVo&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=87",
-        "title": "AWS re:Invent 2022 - DevOps challenges in a microservices world (PRT062)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=mWAjSxMUDCo&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=88",
-        "title": "AWS re:Invent 2022 - How to secure your data and applications against ransomware (PRT288)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=hLXp9CZuiRE&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=89",
-        "title": "AWS re:Invent 2022 - Build for real time on AWS: Thrive in an unpredictable market (PRT060)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=xHB-a64gpc4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=90",
-        "title": "AWS re:Invent 2022 - Modernizing a megascale database (PRT302)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=YzPFzf1a12k&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=91",
-        "title": "AWS re:Invent 2022 - Syngenta’s cloud journey to a decision science–based R&D (PRT056)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=nTx3yH8NtdA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=92",
-        "title": "AWS re:Invent 2022 - Introducing Salesforce Genie: A real-time platform for customer magic (PRT304)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=ZQggW8N4RSA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=93",
-        "title": "AWS re:Invent 2022 - HealthBridge Financial quickly scales workloads with Boomi and AWS (PRT050)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=g-9UXwjSVjU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=94",
-        "title": "AWS re:Invent 2022 - Using observability to build trust & improve incident response times (PRT317)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=0rVwj0qSc0Y&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=95",
-        "title": "AWS re:Invent 2022 - Key strategies to simplify your application journey (PRT330)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=pnEoqZJC1j4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=96",
-        "title": "AWS re:Invent 2022 - When is it time to modernize your AWS database platform? (PRT046)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=nDCP7UsVrt8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=97",
-        "title": "AWS re:Invent 2022 - Network-attached storage in the cloud with Amazon FSx (STG201)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=VWMCT737IIc&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=98",
-        "title": "AWS re:Invent 2022 - Identity-native infrastructure access on AWS with Teleport (PRT041)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=g0f6lrmEyRM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=99",
-        "title": "AWS re:Invent 2022 - File storage for builders and data scientists on Amazon EFS (STG216)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=6848CCaIqSY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=100",
-        "title": "AWS re:Invent 2022 - Deep dive on accelerating HPC and ML with Amazon FSx (STG343)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Aeb2nEZ-aio&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=101",
-        "title": "AWS re:Invent 2022 - Accelerating decarbonization and sustainability transformation (SUS212)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=FBc9hXQfat0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=102",
-        "title": "AWS re:Invent 2022 - Delivering sustainable, high-performing architectures (SUS303)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=qdgyu4QwfR4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=103",
-        "title": "AWS re:Invent 2022 - Telco as a service: Future of digital with AWS and Vodafone (TLC202)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=V-dc4WKjP0A&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=104",
-        "title": "AWS re:Invent 2022 - Diving deep with Amazon Ads: Analytics at scale (AMZ303)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=XfyxiI2brDw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=105",
-        "title": "AWS re:Invent 2022 - How AI and ML unlock insights for financial services teams (PRT036)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=8KibI-OoE0I&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=106",
-        "title": "AWS re:Invent 2022 - How to build an Apache Kafka mesh (PRT037)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=vznDgJkoH7k&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=107",
-        "title": "AWS re:Invent 2022 - Enabling agility with data governance on AWS (ANT204)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=_qG3iI5wq9o&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=108",
-        "title": "AWS re:Invent 2022 - Open-source observability is the way forward, and here’s why (PRT039)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=DNzSsiAfWpU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=109",
-        "title": "AWS re:Invent 2022 - Achieving your modern data architecture (ANT205-R)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=C9S3mT4zIw4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=110",
-        "title": "AWS re:Invent 2022 - NextGen Cloud Governance: Speed and optimize your cloud (PRT033)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=QeW9wCB36ck&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=111",
-        "title": "AWS re:Invent 2022 - Reliable scalability: How Amazon.com scales in the cloud (ARC206)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Q2OY55gaOjw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=112",
-        "title": "AWS re:Invent 2022 - Build production-ready prototypes rapidly using serverless patterns (ARC311-R)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=OdEZwAHqvZs&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=113",
-        "title": "AWS re:Invent 2022 - Using your technical skills with Amazon Ads (PRT030)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Np6otOPgCX0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=114",
-        "title": "AWS re:Invent 2022 - Three key considerations for deploying best-of-breed observability (PRT027)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=y7crGW6zLao&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=115",
-        "title": "AWS re:Invent 2022 - Boost user engagement with Amazon Personalize (AIM203)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=nPE4-t8gMY0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=116",
-        "title": "AWS re:Invent 2022 - Impact through cutting-edge ML research with Amazon Research Awards (AIM408)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=pgy-KF83XJ4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=117",
-        "title": "AWS re:Invent 2022 - Graph feature engineering with Neo4j and Amazon SageMaker (PRT022)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=gQTJRhOoVHw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=118",
-        "title": "AWS re:Invent 2022 - Cloud operations: A catalyst for innovation (SUP202)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=bL0WuOS_i50&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=119",
-        "title": "AWS re:Invent 2022 - Multi- and hybrid-cloud cost optimization with Flexera One (PRT016)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=iGx6w1B-Hlo&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=120",
-        "title": "AWS re:Invent 2022 - Office of the CIO: Partnering with leaders to drive business value (PRT017)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=l_Go9fMtYdc&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=121",
-        "title": "AWS re:Invent 2022 - Reinvent how you derive value from your data with Amazon QuickSight (BSI201)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=RwubsWC2wEY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=122",
-        "title": "AWS re:Invent 2022 - Build your data lakehouse with Starburst Galaxy (PRT014)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=UDFl_bBGDzQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=123",
-        "title": "AWS re:Invent 2022 - Monitor and predict health data using AWS AI services (COM303)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=nmkHamCg3zQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=124",
-        "title": "AWS re:Invent 2022 - Reducing exposure in the cloud (PRT011)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=AI3r-xfmPIM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=125",
-        "title": "AWS re:Invent 2022 - Detect and resolve biases in artificial intelligence (COM304)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=3MHZIFCcGz0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=126",
-        "title": "AWS re:Invent 2022 - Speedboat innovation: Enabling new revenue streams (PRT007)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=A6DG_Afe07I&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=127",
-        "title": "AWS re:Invent 2022 - Unlock the value of your data with AWS analytics (ANT203-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=8YhN28bONco&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=128",
-        "title": "AWS re:Invent 2022 - Automate & manage AWS Outposts capacity across multi-account AWS setup (COM305)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=JnRP_VJc_WE&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=129",
-        "title": "AWS re:Invent 2022 - Business-critical cloud infrastructure (PRT008)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Q5jUYCoxL_o&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=130",
-        "title": "AWS re:Invent 2022 - A guide to strengthening your threat detection and response (PRT009)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=IsslvfrT-IU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=131",
-        "title": "AWS re:Invent 2022 - Metaverse experiences come to life with EC2 accelerated computing (CMP212)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=RsVt6nz7D0I&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=132",
-        "title": "AWS re:Invent 2022 - Deliver secure and seamless digital experiences, faster (PRT003)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=GrqhffRePgk&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=133",
-        "title": "AWS re:Invent 2022 - Cloud security: A critical part of your exposure management program (PRT004)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=0e4pEo0AWNQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=134",
-        "title": "AWS re:Invent 2022 - How bp gained flexibility and cost savings by migrating to ROSA (CON202)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=gCX7eirNVxU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=135",
-        "title": "AWS re:Invent 2022 - 100x faster data app experiences delivered cost-effectively (PRT005)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=abTFdy47tP4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=136",
-        "title": "AWS re:Invent 2022 - Your first container in the cloud (CON207)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=5B4-s_ivn1o&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=137",
-        "title": "AWS re:Invent 2022 - Optimizing Amazon EKS for performance and cost on AWS (CON324)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=7cYzYWcDyiM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=138",
-        "title": "AWS re:Invent 2022 - Governance and security with infrastructure as code (DOP314)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=2lkHV5--HWI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=139",
-        "title": "AWS re:Invent 2022 - Creating remote work environments that optimize security, productivity (EUC204)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=5QoekgHGLgI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=140",
-        "title": "AWS re:Invent 2022 - Gain value from AWS Mainframe Modernization Replatform w/Micro Focus (ENT215)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=_d65i3Kmlo8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=141",
-        "title": "AWS re:Invent 2022 - Learning at the speed of cloud: Turning employees into entrepreneurs (ENT217)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=rl2nXUG_1Fw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=142",
-        "title": "AWS re:Invent 2022 - Everybody wins: Real-world business value for CIOs & CFOs with cloud (ENT219)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=GCjx8GVIIIA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=143",
-        "title": "AWS re:Invent 2022 - Nasdaq: Moving mission-critical, low-latency workloads to AWS (FSI312)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=zFk-iePwyY8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=144",
-        "title": "AWS re:Invent 2022 - Create real-time, event-driven apps w/Amazon EventBridge & AWS AppSync (FWM315)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=fUwihm9g0tM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=145",
-        "title": "AWS re:Invent 2022 - Optimized software for improved performance in cryo-EM and genomics (LFS305-S)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=-6lDFdYXPck&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=146",
-        "title": "AWS re:Invent 2022 - Unlocking benefits in moving EHR to AWS: A practical approach (HLC305-S)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=mRUVeyVF3jM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=147",
-        "title": "AWS re:Invent 2022 - [NEW LAUNCH!] Automate data discovery with Amazon Macie (SEC215)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=A8iHQjHv8nY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=148",
-        "title": "AWS re:Invent 2022 - Architecting secure serverless applications (SVS302-R)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=mRqI7GFaHwI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=149",
-        "title": "AWS re:Invent 2022 - Emotional intelligence can supercharge innovation (INO203)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=NpThwz0z_D0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=150",
-        "title": "AWS re:Invent 2022 - SaaS microservices deep dive: Simplifying multi-tenant development (SAS405)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=gfFGGzGCS04&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=151",
-        "title": "AWS re:Invent 2022 - Leading beyond line of sight: Amazon’s two-pizza teams (INO204)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=s5sjsdDC0Lg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=152",
-        "title": "AWS re:Invent 2022 - Improve performance and availability with AWS Global Accelerator (NET301)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Cu0r_PXyT10&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=153",
-        "title": "AWS re:Invent 2022 - Core elements of digital transformation (RET301)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Ya4WFO9P0i8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=154",
-        "title": "AWS re:Invent 2022 - Layered VPC security and inspection (NET311)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=E4wQSAtvUq8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=155",
-        "title": "AWS re:Invent 2022 - Co-selling integrator solutions with AWS (PEX213)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=4Dvqs8KF9B8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=156",
-        "title": "AWS re:Invent 2022 - Discover Cloudscape, an open-source design system for the cloud (OPN204)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=-9EdKM0Sxa8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=157",
-        "title": "AWS re:Invent 2022 - Improving your solutions with AWS Partner technical validation (PEX205)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=AJlsAin7_rQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=158",
-        "title": "AWS re:Invent 2022 - Your data: How you need it, where you need it, when you need it (DAT224-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=2g2PvPmPuQM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=159",
-        "title": "AWS re:Invent 2022 - Executive insights panel: Changing your culture in the age of cloud (ENT234-L)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=mczl5zhQcYQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=160",
-        "title": "AWS re:Invent 2022 - Amazon Route 53: What’s in a domain name? A lot! (NET206)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=idugI8XpQYg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=161",
-        "title": "AWS re:Invent 2022 - Building comprehensive cloud data management (PRT245)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=NF7rEo8CzpA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=162",
-        "title": "AWS re:Invent 2022 - Using Amazon AppFlow to break down data silos for analytics and ML (ANT220)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=y1p0BGsPxvw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=163",
-        "title": "AWS re:Invent 2022 - How Disney processes clickstream data on Amazon EMR Serverless (ANT325)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=5L1K_moG-dY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=164",
-        "title": "AWS re:Invent 2022 - How Riot Games processes 20 TB of analytics data daily on AWS (ANT341)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=mHOtAEk-5tE&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=165",
-        "title": "AWS re:Invent 2022 - Establishing your cloud foundation on AWS—beyond your landing zone (ARC205)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=W5-BT25bk3U&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=166",
-        "title": "AWS re:Invent 2022 - Put your cloud cost on track (ARC209)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=R6GSiliLfJU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=167",
-        "title": "AWS re:Invent 2022 - Reducing your area of impact and surviving difficult days (ARC305)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=ilgpzlE7Hds&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=168",
-        "title": "AWS re:Invent 2022 - Multi-Region design patterns and best practices (ARC306)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=vRCMzNs0o2s&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=169",
-        "title": "AWS re:Invent 2022 - Automate insurance document processing with AI (AIM204)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=hvIjkOEe9C4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=170",
-        "title": "AWS re:Invent 2022 - Improve uptime with predictive maintenance for industrial equipment (AIM211)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=CDoZyRptbsw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=171",
-        "title": "AWS re:Invent 2022 - Building more inclusive, responsible AI (AIM213)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=DCnw3aFR_sI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=172",
-        "title": "AWS re:Invent 2022 - WaFd bank delivers enhanced self-service with AWS conversational AI (AIM332)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=-Kb2OA2U65g&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=173",
-        "title": "AWS re:Invent 2022 - Digital customer engagement for automotive (AUT201)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Eoynvp8Rz1M&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=174",
-        "title": "AWS re:Invent 2022 - Modernize and govern your digital supply chain with AWS Marketplace (MKT310)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=XqmEf8rOhUw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=175",
-        "title": "AWS re:Invent 2022 - Building a product review classifier with transfer learning (BOA304)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=DvCjIVcs9KA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=176",
-        "title": "AWS re:Invent 2022 - Build a managed analytics platform for your ecommerce business (BOA309)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=RxTVpqOZ62c&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=177",
-        "title": "AWS re:Invent 2022 - Terraform providers using AWS CloudFormation custom resources (BOA316)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=7ScHZaQuehM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=178",
-        "title": "AWS re:Invent 2022 - Simplifying your infrastructure with Go, CDK, and cdk8s (BOA327)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=P6Ngme9KBqs&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=179",
-        "title": "AWS re:Invent 2022 - Manage your infrastructure with Terraform and GitHub Actions (BOA328)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=DBXitNw_V0w&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=180",
-        "title": "AWS re:Invent 2022 - Explainable attention-based NLP using perturbation methods (BOA401)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=C47n_hvT7Og&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=181",
-        "title": "AWS re:Invent 2022 - How women leaders are transforming customer experience (BIZ102)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=yMuH5GdL1l8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=182",
-        "title": "AWS re:Invent 2022 - What’s new in contact centers with Amazon Connect (BIZ202)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=BSh1ah8ej3M&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=183",
-        "title": "AWS re:Invent 2022 - How Buy with Prime built a resilient multi-tenant SaaS architecture (BWP301)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=vWq90UMQQGI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=184",
-        "title": "AWS re:Invent 2022 - Manage and control your AWS costs (COP203)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=lGWyBdKeplQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=185",
-        "title": "AWS re:Invent 2022 - Simplify your AWS cost estimation (COP205)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=vjVgAvr1O0g&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=186",
-        "title": "AWS re:Invent 2022 - Leadership panel discussion: Monitoring and observability on AWS (COP212)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=2IJPpdp9xU0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=187",
-        "title": "AWS re:Invent 2022 - Observability the open-source way (COP301-R)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=xREhfrUqpd4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=188",
-        "title": "AWS re:Invent 2022 - Cloud compliance, assurance, and auditing (COP304)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Eur24IHkoX8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=189",
-        "title": "AWS re:Invent 2022 - 3M: Architecting for innovation in regulated industries (COP315)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=kFGOkywu-rw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=190",
-        "title": "AWS re:Invent 2022 - How to monitor applications across multiple accounts (COP316)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=xM8rTXC4z-8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=191",
-        "title": "AWS re:Invent 2022 - Competition of the modern workloads: Serverless vs Kubernetes on AWS (COM207-R)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=8zsC5e1eLCg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=192",
-        "title": "AWS re:Invent 2022 - Build a cost-, energy-, and resource-efficient compute environment (CMP204)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=8Sh2AT6e9x4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=193",
-        "title": "AWS re:Invent 2022 - Run large-scale graphics workloads with AWS, featuring Mircom and Snap (CMP208)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=jAaqfeyvvSE&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=194",
-        "title": "AWS re:Invent 2022 - Powering Amazon EC2: Deep dive on the AWS Nitro System (CMP301)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=eLVGTb2mkWU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=195",
-        "title": "AWS re:Invent 2022 - Run high-perf storage workloads on EC2 storage optimized instances (CMP312)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=1_YUmq3MpYQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=196",
-        "title": "AWS re:Invent 2022 - What’s new with Amazon ECS (CON323)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=21ERBJjjaX8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=197",
-        "title": "AWS re:Invent 2022 - HBO Max achieves scale and performance with Amazon ElastiCache (DAT214)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=Eg0tJEAZVhU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=198",
-        "title": "AWS re:Invent 2022 - What’s new with Amazon DocumentDB (DAT219)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=nX86fAjKAu8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=199",
-        "title": "AWS re:Invent 2022 - Thomson Reuters & BMC Software database modernization vision with DMA (DAT220)"
-    },
-    {
-        "href": "https://www.youtube.com/watch?v=-fOttRL6nB0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=200",
-        "title": "AWS re:Invent 2022 - Deep dive into Amazon RDS for SQL Server innovation, featuring iCIMS (DAT324)"
-    }
+  {
+    "href": "https://www.youtube.com/watch?v=RfvL_423a-I&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=1",
+    "title": "AWS re:Invent 2022 - Keynote with Dr. Werner Vogels"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=TL2HtX-FmiQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=2",
+    "title": "AWS re:Invent 2022 - Keynote with Swami Sivasubramanian"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=jT92JD6KIH8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=3",
+    "title": "AWS re:Invent 2022 - Keynote with Ruba Borno"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=R11YgBEZzqE&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=4",
+    "title": "AWS re:Invent 2022 - Keynote with Peter DeSantis"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Xus8C2s5K9A&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=5",
+    "title": "AWS re:Invent 2022 - Keynote with Adam Selipsky"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=7bY-YH70h8g&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=6",
+    "title": "AWS re:Invent 2022 - Accelerating innovation with serverless on AWS (SVS210-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=GamnNc6ZMew&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=7",
+    "title": "AWS re:Invent 2022 - Building modern apps: Architecting for observability & resilience (ARC217-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=a3d4yildLkI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=8",
+    "title": "AWS re:Invent 2022 - Building for a better future: Agility, speed, and resilience  (WPS208-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=dxLq27GVXpA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=9",
+    "title": "AWS re:Invent 2022 - Unlocking business value and operational benefits with IoT solutions (IOT211-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Bi8Rb96mloI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=10",
+    "title": "AWS re:Invent 2022 - Innovation and reinvention across the energy value chain (ENU204-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=84kvSuTGY7I&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=11",
+    "title": "AWS re:Invent 2022 - The power of responsibility in AI/ML (DEI201-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=ZaTcfNNEXcY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=12",
+    "title": "AWS re:Invent 2022 - Transform with AWS Cloud Operations: From vision to reality  (COP224-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=OB7IZolZk78&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=13",
+    "title": "AWS re:Invent 2022 - Kubernetes virtually anywhere, for everyone (CON208-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=nnzWyU8I6hA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=14",
+    "title": "AWS re:Invent 2022 - AWS for Industrial: Smart manufacturing & supply chain in the cloud (MFG208-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=exDzZ3KPaV4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=15",
+    "title": "AWS re:Invent 2022 - AWS storage innovations at exabyte scale (STG221-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=rxcHEIDil1s&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=16",
+    "title": "AWS re:Invent 2022 - Compute innovation to enable any application in the cloud (CMP223-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=yFmkE7tIslA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=17",
+    "title": "AWS re:Invent 2022 - What’s new in Amazon OpenSearch Service (ANT206)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=VVK6lbYdpc0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=18",
+    "title": "AWS re:Invent 2022 - Tackle complex migrations with VMware Cloud on AWS: Lessons from Aon (ENT224)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=SI2kk-4Jskk&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=19",
+    "title": "AWS re:Invent 2022 - How BMW, Intuit & Morningstar are transforming with AWS & Athena  (ANT326)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=SbL3a9YOW7s&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=20",
+    "title": "AWS re:Invent 2022 - Building next-gen applications with event-driven architectures (API311-R)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Nk6bOR61xe8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=21",
+    "title": "AWS re:Invent 2022 - Accelerating semiconductor design, simulation, and verification (CMP320)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=jrBznVvuvdM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=22",
+    "title": "AWS re:Invent 2022 - Amazon’s culture of innovation (INO102)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=sewKEuZZ1BA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=23",
+    "title": "AWS re:Invent 2022 - Optimize price and performance with Amazon EBS (STG204)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=l8AFfaCkp0E&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=24",
+    "title": "AWS re:Invent 2022 - Deep learning on AWS with NVIDIA: From training to deployment (PRT219)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=8zbfxcQ96eM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=25",
+    "title": "AWS re:Invent 2022 - Innovation, intersection, and scale (DEI302)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=2qautbhuJC8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=26",
+    "title": "AWS re:Invent 2022 - TCO analysis with AWS services and Migration Portfolio Assessment (PEX202)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=-WYBOuP1Y6E&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=27",
+    "title": "AWS re:Invent 2022 - Get started building your first serverless, event-driven application (SVS209)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=L4rq5DHhtgA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=28",
+    "title": "AWS re:Invent 2022 - Bring your favorite Dell enterprise capabilities to AWS (PRT253)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Iy1IpvcJH7I&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=29",
+    "title": "AWS re:Invent 2022 - Building AI-enriched applications with .NET on AWS (XNT303)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=zm30JNYmxlY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=30",
+    "title": "AWS re:Invent 2022 - How Discovery increased operational efficiency with AWS observability (COP201)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=RmwKBPCo7o4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=31",
+    "title": "AWS re:Invent 2022 - Unleash developer productivity with infrastructure from code (COM301)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=9Tse4B-fnbI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=32",
+    "title": "AWS re:Invent 2022 - Automotive reinvention (AUT101-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=_eoTZF-UOFA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=33",
+    "title": "AWS re:Invent 2022 - Accelerate business results with AWS purpose-built applications  (BIZ101-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=ce6t3FqB_Z4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=34",
+    "title": "AWS re:Invent 2022 - How Disney used AWS Glue as a data integration and ETL framework (ANT335)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=eSnPulp5os0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=35",
+    "title": "AWS re:Invent 2022 - What’s new with Amazon EMR (ANT302)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=4FqHt5bmS2o&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=36",
+    "title": "AWS re:Invent 2022 - Deploy ML models for inference at high performance & low cost, ft AT&T (AIM302)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=-tJN9Oy3jfw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=37",
+    "title": "AWS re:Invent 2022 - Transform federal customer experiences with AWS Marketplace (MKT203)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=pDT_iVwRytw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=38",
+    "title": "AWS re:Invent 2022 - Deliver resilient, personalized experience at scale w/Amazon Connect (BIZ208)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=NkE9_okfPG8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=39",
+    "title": "AWS re:Invent 2022 - Setting up controls at scale in your AWS environment (COP318)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=RkBN-6dwAW8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=40",
+    "title": "AWS re:Invent 2022 - Bringing software engineering rigor to data (COM306)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=jbjd5yz-KTg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=41",
+    "title": "AWS re:Invent 2022 - Choosing the right accelerator for training and inference (CMP207)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=S7JwFFZ-7_Q&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=42",
+    "title": "AWS re:Invent 2022 - Building containers for AWS (CON325)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=MZBbhqt6bQs&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=43",
+    "title": "AWS re:Invent 2022 - A close look at AWS Fargate and AWS App Runner (CON406)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=V-DiplATdi0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=44",
+    "title": "AWS re:Invent 2022 - Modernize apps with purpose-built databases, featuring Liberty Mutual (DAT217)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=SC-YAPgJpms&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=45",
+    "title": "AWS re:Invent 2022 - Deploy modern and effective data models with Amazon DynamoDB (DAT320)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Zyhd2FmdtJs&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=46",
+    "title": "AWS re:Invent 2022 - How to save costs and optimize Microsoft workloads on AWS (ENT205)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=yXCjuAaXACo&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=47",
+    "title": "AWS re:Invent 2022 - How to migrate, modernize, and grow using the AWS MAP (ENT213)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Tf5zxMKjPnE&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=48",
+    "title": "AWS re:Invent 2022 - Site suitability analysis using Amazon Location Service (FWM202)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=fJIkTH3HMAk&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=49",
+    "title": "AWS re:Invent 2022 - How AWS and Riot Games built a governance reporting engine (GAM203)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=MNIKWFOvibA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=50",
+    "title": "AWS re:Invent 2022 - Pushing the boundary of the cloud to the edge (HYB203)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=AMBRfjt3pdg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=51",
+    "title": "AWS re:Invent 2022 - Building a sustainable practice for tomorrow (PEX201)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=I7Vt-6xUbxw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=52",
+    "title": "AWS re:Invent 2022 - Lessons learned from IT modernization and transformation (WPS205)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=YL9sRD3b7v8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=53",
+    "title": "AWS re:Invent 2022 - Learn how to migrate mission-critical systems to AWS (WPS206)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Q4NeICQ_IXk&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=54",
+    "title": "AWS re:Invent 2022 - How AWS is making quantum technologies a practical reality  (QTC201)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=uFrj0jHN848&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=55",
+    "title": "AWS re:Invent 2022 - Revitalize your security with the AWS Security Reference Architecture (SEC203)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=br7xIulqXks&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=56",
+    "title": "AWS re:Invent 2022 - Build securely on AWS: Insights from the C-suite (SEC332)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=TSeRyTZzS_M&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=57",
+    "title": "AWS re:Invent 2022 - Personalizing patient experience: A roundtable with PwC and Nuvance (PRT205)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=ElOe4YbwC1o&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=58",
+    "title": "AWS re:Invent 2022 - How to integrate analytics into DevOps processes using Git (PRT098)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=60Xf1GRIMdI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=59",
+    "title": "AWS re:Invent 2022 - How 5G Edge is being used to solve customer problems (PRT216)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=aHClvCQfuPs&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=60",
+    "title": "AWS re:Invent 2022 - Leaping ahead: The power of cloud network innovation (NET211-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=punKSuyhsbg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=61",
+    "title": "AWS re:Invent 2022 - Industry leaders share how to automate with PagerDuty and AWS (PRT217)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=XkAG8KiAFVo&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=62",
+    "title": "AWS re:Invent 2022 - HPE GreenLake and AWS: Hybrid cloud that accelerates your business (PRT096)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=jdQChVpE6Wo&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=63",
+    "title": "AWS re:Invent 2022 - The next frontier: Driving innovation with platform standardization (PRT221)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=DyB2iueJa6I&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=64",
+    "title": "AWS re:Invent 2022 - Why operationalizing data mesh is critical for operating in the cloud (PRT222)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=8mhktu-V8Cc&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=65",
+    "title": "AWS re:Invent 2022 - How SingleStore saves 56% on Amazon EC2 with no DevOps hours invested (PRT095)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=hm1fb5mPjfU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=66",
+    "title": "AWS re:Invent 2022 - What can you do with on-demand networking and the AWS Cloud? (PRT225)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=plLxBKDj3Zk&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=67",
+    "title": "AWS re:Invent 2022 - Developing and deploying secure AWS Lambda applications (PRT094)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=-9ul3j-fBpU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=68",
+    "title": "AWS re:Invent 2022 - Building real-time applications to utilize AWS Graviton (PRT246)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=voPfHDYRNBw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=69",
+    "title": "AWS re:Invent 2022 - Using AI to anticipate risk (PRT092)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=pOnXx0w-3WI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=70",
+    "title": "AWS re:Invent 2022 - Data integration at scale: Strategies to unlock SAP and mainframe (PRT248)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=zm9SJ1fbKRg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=71",
+    "title": "AWS re:Invent 2022 - All you need to know about architecting VMware Cloud on AWS deployment (PRT252)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=99r7cxKW8Rg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=72",
+    "title": "AWS re:Invent 2022 - Shift left the proper way (PRT082)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=DqrBUFtRC58&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=73",
+    "title": "AWS re:Invent 2022 - How AMD is taking the cloud to new heights, and what’s next (PRT256)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=SgYnEsz2wjc&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=74",
+    "title": "AWS re:Invent 2022 - Using AI to thwart cloud ransomware (PRT075)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=vvTEODqJUM8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=75",
+    "title": "AWS re:Invent 2022 - Building and operating at scale with feature management (PRT261)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=RF8VGhHK_GM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=76",
+    "title": "AWS re:Invent 2022 - Zero Trust CNAPP and cloud workload protection with Zscaler (PRT073)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=2PpBiCstUKM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=77",
+    "title": "AWS re:Invent 2022 - Observability in the real world: Improve systems w/iterative approach (PRT263)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=bbchHOFVUuY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=78",
+    "title": "AWS re:Invent 2022 - What to know before adopting Arm: Lessons learned at Datadog (PRT265)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=gpH5bNN9RTM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=79",
+    "title": "AWS re:Invent 2022 - Top four mistakes to avoid for ERP cloud migrations (PRT072)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=y1jmxhcR6TY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=80",
+    "title": "AWS re:Invent 2022 - Accelerate your AWS Partner Paths journey in half the time (PRT070)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Qz_rfvYZ2Mk&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=81",
+    "title": "AWS re:Invent 2022 - Modernize faster with serverless and end-to-end observability (PRT273)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=4q5XzyGk_IM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=82",
+    "title": "AWS re:Invent 2022 - Owning end user experience in an internet world (PRT067)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=SGEZYdO2QZA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=83",
+    "title": "AWS re:Invent 2022 - Innovate with AWS and secure with CrowdStrike (PRT275)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=0Pfj1CjsYhs&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=84",
+    "title": "AWS re:Invent 2022 - Geisinger’s full-scale migration to AWS via self-funding (PRT284)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=DfYuf-MVa9w&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=85",
+    "title": "AWS re:Invent 2022 - Modern data platforms: AWS and MariaDB SkySQL (PRT065)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=HUQSUGFWaVo&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=86",
+    "title": "AWS re:Invent 2022 - DevOps challenges in a microservices world (PRT062)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=mWAjSxMUDCo&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=87",
+    "title": "AWS re:Invent 2022 - How to secure your data and applications against ransomware (PRT288)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=hLXp9CZuiRE&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=88",
+    "title": "AWS re:Invent 2022 - Build for real time on AWS: Thrive in an unpredictable market (PRT060)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=xHB-a64gpc4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=89",
+    "title": "AWS re:Invent 2022 - Modernizing a megascale database (PRT302)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=YzPFzf1a12k&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=90",
+    "title": "AWS re:Invent 2022 - Syngenta’s cloud journey to a decision science–based R&D (PRT056)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=nTx3yH8NtdA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=91",
+    "title": "AWS re:Invent 2022 - Introducing Salesforce Genie: A real-time platform for customer magic (PRT304)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=ZQggW8N4RSA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=92",
+    "title": "AWS re:Invent 2022 - HealthBridge Financial quickly scales workloads with Boomi and AWS (PRT050)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=g-9UXwjSVjU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=93",
+    "title": "AWS re:Invent 2022 - Using observability to build trust & improve incident response times (PRT317)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=0rVwj0qSc0Y&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=94",
+    "title": "AWS re:Invent 2022 - Key strategies to simplify your application journey (PRT330)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=pnEoqZJC1j4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=95",
+    "title": "AWS re:Invent 2022 - When is it time to modernize your AWS database platform? (PRT046)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=nDCP7UsVrt8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=96",
+    "title": "AWS re:Invent 2022 - Network-attached storage in the cloud with Amazon FSx (STG201)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=VWMCT737IIc&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=97",
+    "title": "AWS re:Invent 2022 - Identity-native infrastructure access on AWS with Teleport (PRT041)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=g0f6lrmEyRM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=98",
+    "title": "AWS re:Invent 2022 - File storage for builders and data scientists on Amazon EFS (STG216)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=6848CCaIqSY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=99",
+    "title": "AWS re:Invent 2022 - Deep dive on accelerating HPC and ML with Amazon FSx (STG343)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Aeb2nEZ-aio&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=100",
+    "title": "AWS re:Invent 2022 - Accelerating decarbonization and sustainability transformation (SUS212)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=FBc9hXQfat0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=101",
+    "title": "AWS re:Invent 2022 - Delivering sustainable, high-performing architectures (SUS303)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=qdgyu4QwfR4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=102",
+    "title": "AWS re:Invent 2022 - Telco as a service: Future of digital with AWS and Vodafone (TLC202)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=V-dc4WKjP0A&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=103",
+    "title": "AWS re:Invent 2022 - Diving deep with Amazon Ads: Analytics at scale (AMZ303)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=XfyxiI2brDw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=104",
+    "title": "AWS re:Invent 2022 - How AI and ML unlock insights for financial services teams (PRT036)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=8KibI-OoE0I&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=105",
+    "title": "AWS re:Invent 2022 - How to build an Apache Kafka mesh (PRT037)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=vznDgJkoH7k&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=106",
+    "title": "AWS re:Invent 2022 - Enabling agility with data governance on AWS (ANT204)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=_qG3iI5wq9o&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=107",
+    "title": "AWS re:Invent 2022 - Open-source observability is the way forward, and here’s why (PRT039)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=DNzSsiAfWpU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=108",
+    "title": "AWS re:Invent 2022 - Achieving your modern data architecture (ANT205-R)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=C9S3mT4zIw4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=109",
+    "title": "AWS re:Invent 2022 - NextGen Cloud Governance: Speed and optimize your cloud (PRT033)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=QeW9wCB36ck&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=110",
+    "title": "AWS re:Invent 2022 - Reliable scalability: How Amazon.com scales in the cloud (ARC206)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Q2OY55gaOjw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=111",
+    "title": "AWS re:Invent 2022 - Build production-ready prototypes rapidly using serverless patterns (ARC311-R)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=OdEZwAHqvZs&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=112",
+    "title": "AWS re:Invent 2022 - Using your technical skills with Amazon Ads (PRT030)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Np6otOPgCX0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=113",
+    "title": "AWS re:Invent 2022 - Three key considerations for deploying best-of-breed observability (PRT027)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=y7crGW6zLao&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=114",
+    "title": "AWS re:Invent 2022 - Boost user engagement with Amazon Personalize (AIM203)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=nPE4-t8gMY0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=115",
+    "title": "AWS re:Invent 2022 - Impact through cutting-edge ML research with Amazon Research Awards (AIM408)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=pgy-KF83XJ4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=116",
+    "title": "AWS re:Invent 2022 - Graph feature engineering with Neo4j and Amazon SageMaker (PRT022)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=gQTJRhOoVHw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=117",
+    "title": "AWS re:Invent 2022 - Cloud operations: A catalyst for innovation (SUP202)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=bL0WuOS_i50&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=118",
+    "title": "AWS re:Invent 2022 - Multi- and hybrid-cloud cost optimization with Flexera One (PRT016)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=iGx6w1B-Hlo&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=119",
+    "title": "AWS re:Invent 2022 - Office of the CIO: Partnering with leaders to drive business value (PRT017)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=l_Go9fMtYdc&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=120",
+    "title": "AWS re:Invent 2022 - Reinvent how you derive value from your data with Amazon QuickSight (BSI201)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=RwubsWC2wEY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=121",
+    "title": "AWS re:Invent 2022 - Build your data lakehouse with Starburst Galaxy (PRT014)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=UDFl_bBGDzQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=122",
+    "title": "AWS re:Invent 2022 - Monitor and predict health data using AWS AI services (COM303)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=nmkHamCg3zQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=123",
+    "title": "AWS re:Invent 2022 - Reducing exposure in the cloud (PRT011)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=AI3r-xfmPIM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=124",
+    "title": "AWS re:Invent 2022 - Detect and resolve biases in artificial intelligence (COM304)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=3MHZIFCcGz0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=125",
+    "title": "AWS re:Invent 2022 - Speedboat innovation: Enabling new revenue streams (PRT007)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=A6DG_Afe07I&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=126",
+    "title": "AWS re:Invent 2022 - Unlock the value of your data with AWS analytics (ANT203-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=8YhN28bONco&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=127",
+    "title": "AWS re:Invent 2022 - Automate & manage AWS Outposts capacity across multi-account AWS setup (COM305)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=JnRP_VJc_WE&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=128",
+    "title": "AWS re:Invent 2022 - Business-critical cloud infrastructure (PRT008)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Q5jUYCoxL_o&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=129",
+    "title": "AWS re:Invent 2022 - A guide to strengthening your threat detection and response (PRT009)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=IsslvfrT-IU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=130",
+    "title": "AWS re:Invent 2022 - Metaverse experiences come to life with EC2 accelerated computing (CMP212)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=RsVt6nz7D0I&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=131",
+    "title": "AWS re:Invent 2022 - Deliver secure and seamless digital experiences, faster (PRT003)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=GrqhffRePgk&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=132",
+    "title": "AWS re:Invent 2022 - Cloud security: A critical part of your exposure management program (PRT004)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=0e4pEo0AWNQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=133",
+    "title": "AWS re:Invent 2022 - How bp gained flexibility and cost savings by migrating to ROSA (CON202)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=gCX7eirNVxU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=134",
+    "title": "AWS re:Invent 2022 - 100x faster data app experiences delivered cost-effectively (PRT005)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=abTFdy47tP4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=135",
+    "title": "AWS re:Invent 2022 - Your first container in the cloud (CON207)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=5B4-s_ivn1o&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=136",
+    "title": "AWS re:Invent 2022 - Optimizing Amazon EKS for performance and cost on AWS (CON324)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=7cYzYWcDyiM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=137",
+    "title": "AWS re:Invent 2022 - Governance and security with infrastructure as code (DOP314)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=2lkHV5--HWI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=138",
+    "title": "AWS re:Invent 2022 - Creating remote work environments that optimize security, productivity (EUC204)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=5QoekgHGLgI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=139",
+    "title": "AWS re:Invent 2022 - Gain value from AWS Mainframe Modernization Replatform w/Micro Focus (ENT215)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=_d65i3Kmlo8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=140",
+    "title": "AWS re:Invent 2022 - Learning at the speed of cloud: Turning employees into entrepreneurs (ENT217)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=rl2nXUG_1Fw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=141",
+    "title": "AWS re:Invent 2022 - Everybody wins: Real-world business value for CIOs & CFOs with cloud (ENT219)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=GCjx8GVIIIA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=142",
+    "title": "AWS re:Invent 2022 - Nasdaq: Moving mission-critical, low-latency workloads to AWS (FSI312)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=zFk-iePwyY8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=143",
+    "title": "AWS re:Invent 2022 - Create real-time, event-driven apps w/Amazon EventBridge & AWS AppSync (FWM315)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=fUwihm9g0tM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=144",
+    "title": "AWS re:Invent 2022 - Optimized software for improved performance in cryo-EM and genomics (LFS305-S)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=-6lDFdYXPck&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=145",
+    "title": "AWS re:Invent 2022 - Unlocking benefits in moving EHR to AWS: A practical approach (HLC305-S)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=mRUVeyVF3jM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=146",
+    "title": "AWS re:Invent 2022 - [NEW LAUNCH!] Automate data discovery with Amazon Macie (SEC215)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=A8iHQjHv8nY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=147",
+    "title": "AWS re:Invent 2022 - Architecting secure serverless applications (SVS302-R)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=mRqI7GFaHwI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=148",
+    "title": "AWS re:Invent 2022 - Emotional intelligence can supercharge innovation (INO203)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=NpThwz0z_D0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=149",
+    "title": "AWS re:Invent 2022 - SaaS microservices deep dive: Simplifying multi-tenant development (SAS405)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=gfFGGzGCS04&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=150",
+    "title": "AWS re:Invent 2022 - Leading beyond line of sight: Amazon’s two-pizza teams (INO204)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=s5sjsdDC0Lg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=151",
+    "title": "AWS re:Invent 2022 - Improve performance and availability with AWS Global Accelerator (NET301)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Cu0r_PXyT10&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=152",
+    "title": "AWS re:Invent 2022 - Core elements of digital transformation (RET301)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Ya4WFO9P0i8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=153",
+    "title": "AWS re:Invent 2022 - Layered VPC security and inspection (NET311)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=E4wQSAtvUq8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=154",
+    "title": "AWS re:Invent 2022 - Co-selling integrator solutions with AWS (PEX213)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=4Dvqs8KF9B8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=155",
+    "title": "AWS re:Invent 2022 - Discover Cloudscape, an open-source design system for the cloud (OPN204)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=-9EdKM0Sxa8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=156",
+    "title": "AWS re:Invent 2022 - Improving your solutions with AWS Partner technical validation (PEX205)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=AJlsAin7_rQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=157",
+    "title": "AWS re:Invent 2022 - Your data: How you need it, where you need it, when you need it (DAT224-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=2g2PvPmPuQM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=158",
+    "title": "AWS re:Invent 2022 - Executive insights panel: Changing your culture in the age of cloud (ENT234-L)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=mczl5zhQcYQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=159",
+    "title": "AWS re:Invent 2022 - Amazon Route 53: What’s in a domain name? A lot! (NET206)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=idugI8XpQYg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=160",
+    "title": "AWS re:Invent 2022 - Building comprehensive cloud data management (PRT245)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=NF7rEo8CzpA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=161",
+    "title": "AWS re:Invent 2022 - Using Amazon AppFlow to break down data silos for analytics and ML (ANT220)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=y1p0BGsPxvw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=162",
+    "title": "AWS re:Invent 2022 - How Disney processes clickstream data on Amazon EMR Serverless (ANT325)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=5L1K_moG-dY&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=163",
+    "title": "AWS re:Invent 2022 - How Riot Games processes 20 TB of analytics data daily on AWS (ANT341)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=mHOtAEk-5tE&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=164",
+    "title": "AWS re:Invent 2022 - Establishing your cloud foundation on AWS—beyond your landing zone (ARC205)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=W5-BT25bk3U&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=165",
+    "title": "AWS re:Invent 2022 - Put your cloud cost on track (ARC209)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=R6GSiliLfJU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=166",
+    "title": "AWS re:Invent 2022 - Reducing your area of impact and surviving difficult days (ARC305)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=ilgpzlE7Hds&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=167",
+    "title": "AWS re:Invent 2022 - Multi-Region design patterns and best practices (ARC306)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=vRCMzNs0o2s&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=168",
+    "title": "AWS re:Invent 2022 - Automate insurance document processing with AI (AIM204)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=hvIjkOEe9C4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=169",
+    "title": "AWS re:Invent 2022 - Improve uptime with predictive maintenance for industrial equipment (AIM211)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=CDoZyRptbsw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=170",
+    "title": "AWS re:Invent 2022 - Building more inclusive, responsible AI (AIM213)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=DCnw3aFR_sI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=171",
+    "title": "AWS re:Invent 2022 - WaFd bank delivers enhanced self-service with AWS conversational AI (AIM332)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=-Kb2OA2U65g&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=172",
+    "title": "AWS re:Invent 2022 - Digital customer engagement for automotive (AUT201)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Eoynvp8Rz1M&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=173",
+    "title": "AWS re:Invent 2022 - Modernize and govern your digital supply chain with AWS Marketplace (MKT310)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=XqmEf8rOhUw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=174",
+    "title": "AWS re:Invent 2022 - Building a product review classifier with transfer learning (BOA304)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=DvCjIVcs9KA&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=175",
+    "title": "AWS re:Invent 2022 - Build a managed analytics platform for your ecommerce business (BOA309)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=RxTVpqOZ62c&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=176",
+    "title": "AWS re:Invent 2022 - Terraform providers using AWS CloudFormation custom resources (BOA316)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=7ScHZaQuehM&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=177",
+    "title": "AWS re:Invent 2022 - Simplifying your infrastructure with Go, CDK, and cdk8s (BOA327)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=P6Ngme9KBqs&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=178",
+    "title": "AWS re:Invent 2022 - Manage your infrastructure with Terraform and GitHub Actions (BOA328)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=DBXitNw_V0w&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=179",
+    "title": "AWS re:Invent 2022 - Explainable attention-based NLP using perturbation methods (BOA401)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=C47n_hvT7Og&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=180",
+    "title": "AWS re:Invent 2022 - How women leaders are transforming customer experience (BIZ102)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=yMuH5GdL1l8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=181",
+    "title": "AWS re:Invent 2022 - What’s new in contact centers with Amazon Connect (BIZ202)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=BSh1ah8ej3M&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=182",
+    "title": "AWS re:Invent 2022 - How Buy with Prime built a resilient multi-tenant SaaS architecture (BWP301)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=vWq90UMQQGI&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=183",
+    "title": "AWS re:Invent 2022 - Manage and control your AWS costs (COP203)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=lGWyBdKeplQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=184",
+    "title": "AWS re:Invent 2022 - Simplify your AWS cost estimation (COP205)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=vjVgAvr1O0g&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=185",
+    "title": "AWS re:Invent 2022 - Leadership panel discussion: Monitoring and observability on AWS (COP212)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=2IJPpdp9xU0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=186",
+    "title": "AWS re:Invent 2022 - Observability the open-source way (COP301-R)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=xREhfrUqpd4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=187",
+    "title": "AWS re:Invent 2022 - Cloud compliance, assurance, and auditing (COP304)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Eur24IHkoX8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=188",
+    "title": "AWS re:Invent 2022 - 3M: Architecting for innovation in regulated industries (COP315)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=kFGOkywu-rw&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=189",
+    "title": "AWS re:Invent 2022 - How to monitor applications across multiple accounts (COP316)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=xM8rTXC4z-8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=190",
+    "title": "AWS re:Invent 2022 - Competition of the modern workloads: Serverless vs Kubernetes on AWS (COM207-R)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=8zsC5e1eLCg&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=191",
+    "title": "AWS re:Invent 2022 - Build a cost-, energy-, and resource-efficient compute environment (CMP204)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=8Sh2AT6e9x4&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=192",
+    "title": "AWS re:Invent 2022 - Run large-scale graphics workloads with AWS, featuring Mircom and Snap (CMP208)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=jAaqfeyvvSE&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=193",
+    "title": "AWS re:Invent 2022 - Powering Amazon EC2: Deep dive on the AWS Nitro System (CMP301)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=eLVGTb2mkWU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=194",
+    "title": "AWS re:Invent 2022 - Run high-perf storage workloads on EC2 storage optimized instances (CMP312)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=1_YUmq3MpYQ&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=195",
+    "title": "AWS re:Invent 2022 - What’s new with Amazon ECS (CON323)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=21ERBJjjaX8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=196",
+    "title": "AWS re:Invent 2022 - HBO Max achieves scale and performance with Amazon ElastiCache (DAT214)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Eg0tJEAZVhU&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=197",
+    "title": "AWS re:Invent 2022 - What’s new with Amazon DocumentDB (DAT219)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=nX86fAjKAu8&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=198",
+    "title": "AWS re:Invent 2022 - Thomson Reuters & BMC Software database modernization vision with DMA (DAT220)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=-fOttRL6nB0&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=199",
+    "title": "AWS re:Invent 2022 - Deep dive into Amazon RDS for SQL Server innovation, featuring iCIMS (DAT324)"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=LJ3h37ThT3k&list=PL2yQDdvlhXf_hIzmfHCdbcXj2hS52oP9r&index=200",
+    "title": "AWS re:Invent 2022 – Build & run it: Streamline DevOps capabilities with machine learning (DOP205)"
+  }
 ]

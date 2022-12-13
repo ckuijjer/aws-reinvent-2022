@@ -68,8 +68,6 @@
 
 [AWS re:Invent 2022 - What’s new with Amazon EMR (ANT302)](https://www.youtube.com/watch?v=eSnPulp5os0)
 
-[AWS Communications Presents Emerging Tech Trends in the Entertainment Industry](https://www.youtube.com/watch?v=Oon01xMYhJ4)
-
 [AWS re:Invent 2022 - Deploy ML models for inference at high performance & low cost, ft AT&T (AIM302)](https://www.youtube.com/watch?v=4FqHt5bmS2o)
 
 [AWS re:Invent 2022 - Transform federal customer experiences with AWS Marketplace (MKT203)](https://www.youtube.com/watch?v=-tJN9Oy3jfw)
@@ -580,8 +578,6 @@
 
 [AWS re:Invent 2022 - Publishing real-time financial data feeds using Kafka (ARC314)](https://www.youtube.com/watch?v=-hR3gTXoE_Y)
 
-[AWS re:Invent 2022 - How to understand and improve resiliency for serverless systems  (ARC315)](https://www.youtube.com/watch?v=ivz_IO8rLjo)
-
 [AWS re:Invent 2022 - Operating highly available Multi-AZ applications (ARC329)](https://www.youtube.com/watch?v=mwUV5skJJ0s)
 
 [AWS re:Invent 2022 - Automate your mortgage document processing with AWS AI/ML (AIM202)](https://www.youtube.com/watch?v=4lzLaG9OLzw)
@@ -625,8 +621,6 @@
 [AWS re:Invent 2022 - Improving multichannel communications  (BIZ201)](https://www.youtube.com/watch?v=hh3-lyZ9Sho)
 
 [AWS re:Invent 2022 - Boost agent productivity and performance with Amazon Connect (BIZ205)](https://www.youtube.com/watch?v=LA4orUA7gQE)
-
-[AWS re:Invent 2022 - Differentiate your apps with Amazon QuickSight embedded analytics  (BSI203)](https://www.youtube.com/watch?v=0EJM-ogYIxo)
 
 [AWS re:Invent 2022 - Get clarity on your data in seconds with Amazon QuickSight Q (BSI207)](https://www.youtube.com/watch?v=BkjUSd8JK9c)
 
@@ -1008,7 +1002,7 @@
 
 [AWS re:Invent 2022 - What’s new with database migrations (DAT218)](https://www.youtube.com/watch?v=IYcI_Xo45zo)
 
-[AWS re:Invent 2022 - Deep dive on MySQL databases in Amazon RDS (DAT222)](https://www.youtube.com/watch?v=hRNG_qCW_l0)
+[AWS re:Invent 2022 - Amazon RDS Blue/Green Deployments, Optimized Writes & Optimized Reads (DAT222)](https://www.youtube.com/watch?v=hRNG_qCW_l0)
 
 [AWS re:Invent 2022 - Drive collaboration & ML learning like JPMorgan Chase w/AWS DeepRacer (DPR102)](https://www.youtube.com/watch?v=yHsC_EqXnzw)
 
@@ -1133,8 +1127,6 @@
 [AWS re:Invent 2022 - Cloud strategies for equity valuation and investor readiness (STP206-R)](https://www.youtube.com/watch?v=FXNXVy8dZ0g)
 
 [AWS re:Invent 2022 - How AWS helps F1TV increase fan engagement (SPT101)](https://www.youtube.com/watch?v=wBccq7-rwMk)
-
-[AWS re:Invent 2022 - Accelerating telco innovation & impact through 5G & private networks (TLC203-S)](https://www.youtube.com/watch?v=x4dIL2gZzkk)
 
 [AWS re:Invent 2022 - 3 steps to help mitigate cloud risks with CrowdStrike and AWS (PRT328)](https://www.youtube.com/watch?v=r0LrnrAlvpc)
 
@@ -1485,3 +1477,31 @@
 [AWS re:Invent 2022 - Building resilient networks (NET306)](https://www.youtube.com/watch?v=u-qamiNgH7Q)
 
 [AWS re:Invent 2022 - Differentiate your apps with Amazon QuickSight embedded analytics  (BSI203)](https://www.youtube.com/watch?v=MvDQuTvI4as)
+
+[AWS re:Invent 2022 - Analytics architecture strategy for intelligent experiences (PRT290)](https://www.youtube.com/watch?v=bWltK5dVXdg)
+
+[AWS re:Invent 2022 - Land, sea, and space domain awareness through the cloud (AER207)](https://www.youtube.com/watch?v=dJBordYhO6g)
+
+[AWS re:Invent 2022 - S&P Dow Jones Indices’ AWS journey to Amazon Aurora (DAT319)](https://www.youtube.com/watch?v=viOkXelvBsg)
+
+[AWS re:Invent 2022 - Toyota and CFS speed up engineering and design with AWS (MFG205)](https://www.youtube.com/watch?v=vrA-KiYXTug)
+
+[AWS re:Invent 2022 - Unified observability, AIOps, and incident response for AWS (PRT262)](https://www.youtube.com/watch?v=W3stpt-QqPk)
+
+[AWS re:Invent 2022 - [NEW LAUNCH!] Privacy-enhanced collaboration with AWS Clean Rooms (ADM305)](https://www.youtube.com/watch?v=YxWYEeEAvv4)
+
+[AWS re:Invent 2022 - Build interactive analytics applications (ANT209)](https://www.youtube.com/watch?v=zxJhjrlG1bM)
+
+[AWS re:Invent 2022 - Idea to production on Amazon SageMaker, with Thomson Reuters (AIM208)](https://www.youtube.com/watch?v=H_MAr3mR62Y)
+
+[AWS re:Invent 2022 - Introducing Trusted Language Extensions for PostgreSQL (DAT221)](https://www.youtube.com/watch?v=gejPKbPQh74)
+
+[AWS re:Invent 2022 - Build your global wide area network using AWS (NET303)](https://www.youtube.com/watch?v=flBieylTwvI)
+
+[AWS re:Invent 2022 - Technology, innovation & the power of personalization (ADM202)](https://www.youtube.com/watch?v=UaF0odnGphc)
+
+[AWS re:Invent 2022 - How the NFL is innovating with AWS and Amazon Prime Video (SPT102)](https://www.youtube.com/watch?v=D2trnIiCcow)
+
+[AWS re:Invent 2022 - An integrative IoT platform for city management with AWS (PRT028)](https://www.youtube.com/watch?v=8hh3eoStKoc)
+
+[AWS re:Invent 2022 - Self-service analytics with Amazon Redshift Serverless (ANT317)](https://www.youtube.com/watch?v=zGTxxOk4cBk)
