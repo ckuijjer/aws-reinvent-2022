@@ -212,8 +212,6 @@
 
 [AWS re:Invent 2022 - Open-source observability is the way forward, and here’s why (PRT039)](https://www.youtube.com/watch?v=_qG3iI5wq9o)
 
-[AWS re:Invent 2022 - Achieving your modern data architecture (ANT205-R)](https://www.youtube.com/watch?v=DNzSsiAfWpU)
-
 [AWS re:Invent 2022 - NextGen Cloud Governance: Speed and optimize your cloud (PRT033)](https://www.youtube.com/watch?v=C9S3mT4zIw4)
 
 [AWS re:Invent 2022 - Reliable scalability: How Amazon.com scales in the cloud (ARC206)](https://www.youtube.com/watch?v=QeW9wCB36ck)
@@ -283,8 +281,6 @@
 [AWS re:Invent 2022 - Nasdaq: Moving mission-critical, low-latency workloads to AWS (FSI312)](https://www.youtube.com/watch?v=GCjx8GVIIIA)
 
 [AWS re:Invent 2022 - Create real-time, event-driven apps w/Amazon EventBridge & AWS AppSync (FWM315)](https://www.youtube.com/watch?v=zFk-iePwyY8)
-
-[AWS re:Invent 2022 - Optimized software for improved performance in cryo-EM and genomics (LFS305-S)](https://www.youtube.com/watch?v=fUwihm9g0tM)
 
 [AWS re:Invent 2022 - Unlocking benefits in moving EHR to AWS: A practical approach (HLC305-S)](https://www.youtube.com/watch?v=-6lDFdYXPck)
 
@@ -567,8 +563,6 @@
 [AWS re:Invent 2022 - How Sony Orchard accelerated innovation with Amazon MSK (ANT340)](https://www.youtube.com/watch?v=QiNHYGAKrio)
 
 [AWS re:Invent 2022 - Building global event-driven applications (API302-R)](https://www.youtube.com/watch?v=NNTsOKuPlTQ)
-
-[AWS re:Invent 2022 - Application integration patterns for microservices (API303-R)](https://www.youtube.com/watch?v=OZJbrwdQ3BU)
 
 [AWS re:Invent 2022 - The well-architected way (ARC210)](https://www.youtube.com/watch?v=nOKvA8HykW8)
 
@@ -1270,8 +1264,6 @@
 
 [AWS re:Invent 2022 - Zero Trust: Enough talk, let's build better security (SEC405)](https://www.youtube.com/watch?v=751NZpS6s78)
 
-[AWS re:Invent 2022 - Protecting secrets, keys, and data: Cryptography for the long term (SEC403)](https://www.youtube.com/watch?v=mG1qQgj-FOs)
-
 [AWS re:Invent 2022 - AWS security services for container threat detection (SEC329-R1)](https://www.youtube.com/watch?v=KIGTCJiPrVI)
 
 [AWS re:Invent 2022 - Threat detection and incident response using cloud-native services (SEC309)](https://www.youtube.com/watch?v=lx4igENUPVg)
@@ -1505,3 +1497,11 @@
 [AWS re:Invent 2022 - An integrative IoT platform for city management with AWS (PRT028)](https://www.youtube.com/watch?v=8hh3eoStKoc)
 
 [AWS re:Invent 2022 - Self-service analytics with Amazon Redshift Serverless (ANT317)](https://www.youtube.com/watch?v=zGTxxOk4cBk)
+
+[AWS re:Invent 2022 - Protecting secrets, keys, and data: Cryptography for the long term (SEC403)](https://www.youtube.com/watch?v=9vr3oMODIUE)
+
+[AWS re:Invent 2022 - Application integration patterns for microservices (API303-R)](https://www.youtube.com/watch?v=GoBOivyE7PY)
+
+[AWS re:Invent 2022 - Achieving your modern data architecture (ANT205-R)](https://www.youtube.com/watch?v=vDDJ9eWaUt0)
+
+[AWS re:Invent 2022 - Optimized software for improved performance in cryo-EM and genomics (LFS305-S)](https://www.youtube.com/watch?v=14awm2bB1vo)
